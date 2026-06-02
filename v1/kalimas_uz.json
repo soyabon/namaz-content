@@ -1,0 +1,105 @@
+[
+  {
+    "id": "kalima_1_tayyib",
+    "order": 1,
+    "title": "Birinchi kalima — Tayyiba (Poklik kalimasi)",
+    "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ",
+    "transliteration": "La ilaha illalloh, Muhammadur Rasululloh.",
+    "translation": "Allohdan o'zga haq iloh yo'q; Muhammad (sollallohu alayhi va sallam) Allohning Rasulidir.",
+    "source": {
+      "type": "quran_and_hadith",
+      "books": [
+        "Qur'oni karim (mazmun bo'yicha, masalan: Muhammad surasi 47:19, Saffat surasi 37:35)",
+        "Sahih al-Buxoriy",
+        "Sahih Muslim"
+      ],
+      "narrator": null,
+      "notes": "Bu — imonning asosiy kalimasi (kalimatut-tavhid). Uning mazmuni Qur'on va ko'plab sahih hadislarda mustahkam o'rin olgan. Olti kalimaning tartibli to'plami esa, asosan Hind yarim oroli (Hanafiy) ta'lim an'anasida bolalarga imon asoslarini o'rgatish uchun keyinchalik tuzilgan; ya'ni bu to'plam bitta hadisning aynan matni emas, balki Qur'on va sahih hadislardagi zikr va guvohliklardan jamlangan o'quv majmuasidir."
+    }
+  },
+  {
+    "id": "kalima_2_shahadat",
+    "order": 2,
+    "title": "Ikkinchi kalima — Shahodat (Guvohlik kalimasi)",
+    "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "transliteration": "Ashhadu al-la ilaha illallohu vahdahu la sharika lah, va ashhadu anna Muhammadan abduhu va rasuluh.",
+    "translation": "Guvohlik beramanki, Allohdan o'zga haq iloh yo'q, U yagona, Uning sherigi yo'q; va guvohlik beramanki, Muhammad (sollallohu alayhi va sallam) Uning bandasi va Rasulidir.",
+    "source": {
+      "type": "quran_and_hadith",
+      "books": [
+        "Sahih al-Buxoriy",
+        "Sahih Muslim"
+      ],
+      "narrator": null,
+      "notes": "Shahodat — guvohlik so'zi bo'lib, uning matni sahih hadislarda kelgan tashahhud va imon guvohligiga mos keladi. Olti kalima to'plamining ikkinchisi sifatida an'anaviy tarzda o'rgatiladi."
+    }
+  },
+  {
+    "id": "kalima_3_tamjid",
+    "order": 3,
+    "title": "Uchinchi kalima — Tamjid (Ulug'lash kalimasi)",
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَٰهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+    "transliteration": "Subhanallohi val-hamdu lillahi va la ilaha illallohu vallohu akbar, va la havla va la quvvata illa billahil-aliyyil-azim.",
+    "translation": "Alloh pokdir, hamd Allohga xosdir, Allohdan o'zga haq iloh yo'q, Alloh eng buyukdir. Oliy va Buyuk Allohdan o'zga (hech qanday) quvvat va kuch yo'qdir.",
+    "source": {
+      "type": "hadith",
+      "books": [
+        "Sahih hadislardagi zikr matnlari (Subhanalloh, Alhamdulillah, La ilaha illalloh, Allohu akbar)",
+        "Sahih Muslim (boqiyot us-solihot zikrlari haqida)"
+      ],
+      "narrator": null,
+      "notes": "Tamjid — Allohni ulug'lash kalimasi. Undagi har bir bo'lak (tasbeh, hamd, tahlil, takbir va «la havla va la quvvata illa billah») sahih hadislarda fazilatli zikr sifatida kelgan. Olti kalima to'plamidagi joylashuvi an'anaviy tartibga ko'radir."
+    }
+  },
+  {
+    "id": "kalima_4_tavhid",
+    "order": 4,
+    "title": "To'rtinchi kalima — Tavhid (Yakkalik kalimasi)",
+    "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ أَبَدًا أَبَدًا ذُو الْجَلَالِ وَالْإِكْرَامِ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "La ilaha illallohu vahdahu la sharika lah, lahul-mulku va lahul-hamdu, yuhyi va yumitu va huva hayyun la yamutu abadan abada, zul-jalali val-ikrom, biyadihil-khayr, va huva ala kulli shay'in qodir.",
+    "translation": "Allohdan o'zga haq iloh yo'q, U yagona, Uning sherigi yo'q. Mulk Unikidir va hamd Unga xosdir. U tiriltiradi va o'ldiradi. U tirikdir, hech qachon o'lmaydi. U ulug'lik va karam egasidir. Yaxshilik Uning qo'lidadir va U har narsaga qodirdir.",
+    "source": {
+      "type": "hadith",
+      "books": [
+        "Sahih hadislardagi tahlil va Alloh ta'rifi matnlari",
+        "Sunan at-Termiziy (tahlil fazilati haqidagi rivoyatlar)"
+      ],
+      "narrator": null,
+      "notes": "Tavhid — Allohning yakkaligini e'tirof etish kalimasi. Matni sahih hadislarda kelgan tahlil (la ilaha illalloh) va Allohning sifatlarini ulug'lovchi zikrlarga asoslanadi. Olti kalima to'plamidagi tartibi an'anaviydir."
+    }
+  },
+  {
+    "id": "kalima_5_istigfor",
+    "order": 5,
+    "title": "Beshinchi kalima — Istig'for (Mag'firat so'rash kalimasi)",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ رَبِّي مِنْ كُلِّ ذَنْبٍ أَذْنَبْتُهُ عَمَدًا أَوْ خَطَأً سِرًّا أَوْ عَلَانِيَةً وَأَتُوبُ إِلَيْهِ مِنَ الذَّنْبِ الَّذِي أَعْلَمُ وَمِنَ الذَّنْبِ الَّذِي لَا أَعْلَمُ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ وَسَتَّارُ الْعُيُوبِ وَغَفَّارُ الذُّنُوبِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+    "transliteration": "Astaghfirullaha robbi min kulli zanbin aznabtuhu amadan av khata'an sirran av alaniyatan, va atubu ilayhi minaz-zanbil-lazi a'lamu va minaz-zanbil-lazi la a'lamu, innaka anta allamul-ghuyubi va sattarul-uyubi va ghaffaruz-zunubi, va la havla va la quvvata illa billahil-aliyyil-azim.",
+    "translation": "Ey Robbim Alloh, bilib yoki bilmay, yashirin yoki oshkora qilgan har bir gunohim uchun Sendan mag'firat so'rayman. Bilgan va bilmagan gunohlarimdan Senga tavba qilaman. Albatta, Sen g'ayblarni Bilguvchi, ayblarni Yashiruvchi va gunohlarni Mag'firat qilguvchisan. Oliy va Buyuk Allohdan o'zga (hech qanday) quvvat va kuch yo'qdir.",
+    "source": {
+      "type": "hadith",
+      "books": [
+        "Sahih al-Buxoriy (Sayyidul-istig'for asosi)",
+        "Istig'forga oid sahih hadis matnlari"
+      ],
+      "narrator": null,
+      "notes": "Istig'for — mag'firat so'rash kalimasi. Mazmuni sahih hadislardagi istig'for va tavba duolariga (jumladan Sayyidul-istig'for ruhiga) asoslanadi. Lekin aynan shu so'zlardagi to'liq matn bitta sanadli hadis emas, balki an'anaviy ravishda jamlangan istig'for matnidir."
+    }
+  },
+  {
+    "id": "kalima_6_raddi_kufr",
+    "order": 6,
+    "title": "Oltinchi kalima — Raddi kufr (Kufrni rad etish kalimasi)",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ أَنْ أُشْرِكَ بِكَ شَيْئًا وَأَنَا أَعْلَمُ بِهِ وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ بِهِ تُبْتُ عَنْهُ وَتَبَرَّأْتُ مِنَ الْكُفْرِ وَالشِّرْكِ وَالْكِذْبِ وَالْغِيبَةِ وَالْبِدْعَةِ وَالنَّمِيمَةِ وَالْفَوَاحِشِ وَالْبُهْتَانِ وَالْمَعَاصِي كُلِّهَا وَأَسْلَمْتُ وَأَقُولُ لَا إِلَٰهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ",
+    "transliteration": "Allohumma inni a'uzu bika min an ushrika bika shay'an va ana a'lamu bihi, va astaghfiruka lima la a'lamu bihi, tubtu anhu va tabarra'tu minal-kufri vash-shirki val-kizbi val-ghibati val-bid'ati van-namimati val-favahishi val-buhtani val-ma'asi kulliha, va aslamtu va aqulu la ilaha illallohu Muhammadur Rasululloh.",
+    "translation": "Ey Alloh, bila turib Senga biror narsani sherik qilishdan Senga panoh tilayman va bilmasdan qilganim uchun Sendan mag'firat so'rayman. Undan tavba qildim va kufr, shirk, yolg'on, g'iybat, bid'at, chaqimchilik, fahsh ishlar, bo'hton va barcha gunohlardan voz kechdim. Bo'ysundim (musulmon bo'ldim) va aytamanki: Allohdan o'zga haq iloh yo'q, Muhammad Allohning Rasulidir.",
+    "source": {
+      "type": "hadith",
+      "books": [
+        "Shirkdan panoh tilashga oid sahih hadis matnlari",
+        "Musnad Ahmad (shirkdan saqlanish duosi asosi)"
+      ],
+      "narrator": null,
+      "notes": "Raddi kufr — kufr va shirkdan voz kechish kalimasi. Mazmuni shirkdan Allohga panoh tilash haqidagi sahih hadislarga asoslanadi. Manbalarda matnda kichik farqlar uchraydi (masalan «bid'at» so'zining bor-yo'qligi); bu yerda Hanafiy ta'lim an'anasida keng tarqalgan to'liq shakl keltirildi. Olti kalimaning bu tartibli to'plami bitta hadis matni emas, balki an'anaviy o'quv majmuasidir."
+    }
+  }
+]
