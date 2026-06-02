@@ -1,0 +1,111 @@
+{
+  "duas": [
+    {
+      "id": "iftar_dua",
+      "title": "Iftor duosi",
+      "arabic": "اللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ وَعَلَيْكَ تَوَكَّلْتُ",
+      "transliteration": "Allohumma laka sumtu va ala rizqika aftartu va alayka tavakkaltu",
+      "translation_uz": "Allohim, Sen uchun ro'za tutdim, Sening rizqing bilan iftor qildim va Senga tavakkal qildim."
+    },
+    {
+      "id": "suhoor_dua",
+      "title": "Saharlik niyati",
+      "arabic": "نَوَيْتُ أَنْ أَصُومَ صَوْمَ شَهْرِ رَمَضَانَ مِنَ الْفَجْرِ إِلَى الْمَغْرِبِ خَالِصًا لِلَّهِ تَعَالَى",
+      "transliteration": "Navaytu an asuma savma shahri Ramazona minal-fajri ilal-maghribi kholisan lillahi ta'ala",
+      "translation_uz": "Ramazon oyining ro'zasini subhdan to maghribgacha Alloh taolo uchun xolis tutishga niyat qildim."
+    },
+    {
+      "id": "taraweeh_dua",
+      "title": "Taroveh orasidagi duo",
+      "arabic": "سُبْحَانَ ذِي الْمُلْكِ وَالْمَلَكُوتِ سُبْحَانَ ذِي الْعِزَّةِ وَالْعَظَمَةِ وَالْهَيْبَةِ وَالْقُدْرَةِ وَالْكِبْرِيَاءِ وَالْجَبَرُوتِ",
+      "transliteration": "Subhana zil-mulki val-malakut. Subhana zil-izzati val-azamati val-haybati val-qudrati val-kibriyai val-jabarut.",
+      "translation_uz": "Mulk va malakut egasi (Alloh) pokdir! Izzat, azamat, haybat, qudrat, kibriyolik va jabarot egasi (Alloh) pokdir!"
+    },
+    {
+      "id": "laylatul_qadr",
+      "title": "Qadr kechasi duosi",
+      "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+      "transliteration": "Allohumma innaka afuvvun tuhibbul-afva fa'fu anni",
+      "translation_uz": "Allohim, Sen avf etuvchisan, avf etishni yaxshi ko'rasan, meni avf et."
+    }
+  ],
+  "rules": [
+    {
+      "id": "rule_niyat",
+      "title": "Niyat qilish",
+      "description": "Har kuni tong otmasdan oldin ro'za tutishga niyat qilish farzdir. Niyatsiz ro'za hisobga olinmaydi. Hanafiy mazhabida Ramazon ro'zasiga tushdan oldin ham niyat qilish mumkin, lekin tong otmasdan oldin qilish afzal."
+    },
+    {
+      "id": "rule_suhoor",
+      "title": "Saharlik qilish",
+      "description": "Tong otishidan oldin ovqatlanish sunnat muakkaladdir. Payg'ambarimiz (s.a.v.): «Saharlik qilinglar, chunki saharlikda baraka bor» deb marhamat qilganlar (Buxoriy, Muslim)."
+    },
+    {
+      "id": "rule_iftar",
+      "title": "Iftorni tezlatish",
+      "description": "Quyosh botishi bilanoq iftorni tezlatish sunnatdir. Xurmo yoki suv bilan iftor qilish afzaldir. Payg'ambarimiz (s.a.v.) xurmo bilan iftor qilar edilar (Abu Dovud)."
+    },
+    {
+      "id": "rule_quran",
+      "title": "Qur'on tilovati",
+      "description": "Ramazon oyida Qur'on o'qishni ko'paytirish mustahab. Bu oyda Qur'on nozil bo'lgan (Baqara: 185). Har bir harf uchun 10 savob, Ramazonda esa ko'paytiriladi."
+    },
+    {
+      "id": "rule_taraweeh",
+      "title": "Taroveh namozi",
+      "description": "Ramazon oyida xufton namozidan keyin 20 rakat taroveh namozi o'qiladi (Hanafiy mazhab). Bu sunnat muakkadadir. Jamoat bilan o'qilishi afzal, yolg'iz o'qilsa ham bo'ladi."
+    },
+    {
+      "id": "rule_sadaqa",
+      "title": "Sadaqa va ehson",
+      "description": "Ramazon oyida sadaqa berishning savoblari ko'paytiriladi. Payg'ambarimiz (s.a.v.) Ramazonda eng saxiy bo'lganlar (Buxoriy). Fitr sadaqasini bayramdan oldin chiqarish vojibdir."
+    },
+    {
+      "id": "rule_break_fast",
+      "title": "Ro'za nima bilan buziladi",
+      "description": "Ro'zani buzadigan amallar: 1) Qasddan yeb-ichish — faqat qazo kerak. 2) Jinsiy aloqa — qazo + kafforat (60 kun ro'za yoki 60 miskinga taom berish). 3) Sigaret chekish — qazo kerak. 4) Burun yoki quloqqa tomiziladigan dori — qazo kerak. 5) Qasddan qusish (og'iz to'lib) — qazo kerak."
+    },
+    {
+      "id": "rule_not_break",
+      "title": "Ro'za nima bilan buzilMAYDI",
+      "description": "Ro'za buzilmaydigan hollar: 1) Unutib yeyish yoki ichish (hadis: «Alloh taomlandirdi va suv berdi»). 2) Beixtiyor qusish (og'iz to'lmasa). 3) Tish tozalash (yutib yubormasa). 4) Suv ichiga cho'kib ketsa. 5) Tush ko'rish. 6) Ko'z yoki quloqqa dori tomizish (Hanafiy mazhabining kuchli qavolida buzilmaydi)."
+    },
+    {
+      "id": "rule_qadr",
+      "title": "Qadr kechasi",
+      "description": "Ramazonning oxirgi 10 kunining toq kechalarida (21, 23, 25, 27, 29) Qadr kechasini izlash lozim. Bu kecha ming oydan yaxshiroqdir (Qadr surasi). Duolar qilish, namoz o'qish, Qur'on tilovat qilish afzal."
+    }
+  ],
+  "practices": [
+    {
+      "id": "practice_dua",
+      "title": "Ko'p duo qilish",
+      "icon": "hands.sparkles",
+      "description": "Ro'zadorning duosi rad etilmaydi, ayniqsa iftor vaqtida (Tirmiziy). Duo qilishga harakat qiling."
+    },
+    {
+      "id": "practice_tongue",
+      "title": "Tilni saqlash",
+      "icon": "mouth",
+      "description": "G'iybat, yolg'on va bema'ni so'zlardan tiyilish. Payg'ambarimiz (s.a.v.): «Kim yolg'on gapirish va unga amal qilishni tark etmasa, Allohning uning yeb-ichmay o'tirishiga hojati yo'q» (Buxoriy)."
+    },
+    {
+      "id": "practice_night_prayer",
+      "title": "Kechasi ibodat",
+      "icon": "moon.stars",
+      "description": "Tahajjud va taroveh namozlarini o'qish, ayniqsa oxirgi 10 kunda. Payg'ambarimiz oxirgi 10 kunda bellarini mahkam bog'lar edilar (Buxoriy)."
+    },
+    {
+      "id": "practice_charity",
+      "title": "Saxovatli bo'lish",
+      "icon": "heart.fill",
+      "description": "Muhtojlarga yordam berish, zakot va fitr sadaqasini chiqarish. Zakot Ramazonda berilsa savob ko'payadi."
+    },
+    {
+      "id": "practice_itikaf",
+      "title": "E'tikof",
+      "icon": "building.columns",
+      "description": "Ramazonning oxirgi 10 kunida masjidda e'tikofga o'tirish sunnat muakkaladdir. Butun jamoa uchun sunnat kifoya (kamida bir kishi o'tirsa, boshqalardan soqit bo'ladi)."
+    }
+  ]
+}

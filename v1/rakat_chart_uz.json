@@ -1,0 +1,57 @@
+[
+  {
+    "id": "fajr",
+    "name": "Bomdod",
+    "sunnah_muakkada_before": 2,
+    "fard": 2,
+    "sunnah_muakkada_after": 0,
+    "sunnah_ghayri_muakkada": 0,
+    "witr": 0,
+    "total": 4,
+    "notes": "Bomdod sunnat namozi o'ta muhim (sunnat muakkada). Payg'ambarimiz (s.a.v.) hech qachon tark qilmaganlar."
+  },
+  {
+    "id": "dhuhr",
+    "name": "Peshin",
+    "sunnah_muakkada_before": 4,
+    "fard": 4,
+    "sunnah_muakkada_after": 2,
+    "sunnah_ghayri_muakkada": 2,
+    "witr": 0,
+    "total": 12,
+    "notes": "4 sunnat muakkada + 4 farz + 2 sunnat muakkada + 2 nafl (ghayri muakkada). Jami 12 rakat."
+  },
+  {
+    "id": "asr",
+    "name": "Asr",
+    "sunnah_muakkada_before": 0,
+    "fard": 4,
+    "sunnah_muakkada_after": 0,
+    "sunnah_ghayri_muakkada": 4,
+    "witr": 0,
+    "total": 8,
+    "notes": "Farzdan oldin 4 rakat ghayri muakkada (mustahab). O'qilsa savobli, tashlab qo'yilsa gunoh yo'q."
+  },
+  {
+    "id": "maghrib",
+    "name": "Shom",
+    "sunnah_muakkada_before": 0,
+    "fard": 3,
+    "sunnah_muakkada_after": 2,
+    "sunnah_ghayri_muakkada": 0,
+    "witr": 0,
+    "total": 5,
+    "notes": "3 farz + 2 sunnat muakkada. Jami 5 rakat."
+  },
+  {
+    "id": "isha",
+    "name": "Xufton",
+    "sunnah_muakkada_before": 0,
+    "fard": 4,
+    "sunnah_muakkada_after": 2,
+    "sunnah_ghayri_muakkada": 4,
+    "witr": 3,
+    "total": 13,
+    "notes": "Farzdan oldin 4 rakat ghayri muakkada (mustahab) + 4 farz + 2 sunnat muakkada + 3 vitr (vojib). Jami 13 rakat."
+  }
+]

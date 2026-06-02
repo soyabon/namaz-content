@@ -1,0 +1,247 @@
+[
+  {
+    "id": "taharat",
+    "title": "Tahorat",
+    "icon": "drop.fill",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Niyat",
+        "description": "Tahorat olish niyatini qiling: 'Alloh taoloning roziligi uchun tahorat olmoqchiman.'"
+      },
+      {
+        "order": 2,
+        "title": "Bismillah",
+        "description": "'Bismillahir rohmanir rohiym' deb boshlang."
+      },
+      {
+        "order": 3,
+        "title": "Qo'llarni yuvish",
+        "description": "Ikkala qo'lni bilakkacha 3 marta yuving."
+      },
+      {
+        "order": 4,
+        "title": "Og'izni chayqash (Madmada)",
+        "description": "Og'izga suv olib 3 marta yaxshilab chayqang. Ro'za tutmagan bo'lsangiz tomoqqa yetguncha chayqash sunnat."
+      },
+      {
+        "order": 5,
+        "title": "Burnini tozalash (Istinshoq)",
+        "description": "Burniga 3 marta suv torting va chap qo'l bilan tozalang."
+      },
+      {
+        "order": 6,
+        "title": "Yuzni yuvish",
+        "description": "Yuzni — soch bitadigan joydan iyak ostigacha, bir quloqdan ikkinchi quloqgacha — 3 marta yuving. Bu farzdir."
+      },
+      {
+        "order": 7,
+        "title": "Qo'llarni tirsakkkacha yuvish",
+        "description": "Avval o'ng qo'lni, so'ng chap qo'lni tirsak bilan birga 3 martadan yuving. Bu farzdir."
+      },
+      {
+        "order": 8,
+        "title": "Boshni masх qilish",
+        "description": "Ho'l qo'llar bilan butun boshni bir marta masх qiling. Bu sunnat. Kamida boshning to'rtdan bir qismini masх qilish farzdir."
+      },
+      {
+        "order": 9,
+        "title": "Quloqlarni masх qilish",
+        "description": "Ko'rsatkich barmoqlar bilan quloqning ichini, bosh barmoqlar bilan tashqarisini masх qiling."
+      },
+      {
+        "order": 10,
+        "title": "Bo'yinni masх qilish",
+        "description": "Qo'l orqasi bilan bo'yinning yon va orqa qismini masх qiling. Bu sunnatdir."
+      },
+      {
+        "order": 11,
+        "title": "Oyoqlarni yuvish",
+        "description": "Avval o'ng oyoqni, so'ng chap oyoqni to'piq bilan birga 3 martadan yuving. Barmoq oralari ham yuvilsin. Bu farzdir."
+      }
+    ]
+  },
+  {
+    "id": "namaz_2rakat",
+    "title": "2 rakatli namoz (Bomdod farzi)",
+    "icon": "figure.stand",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Niyat",
+        "description": "Qaysi namazni o'qiyotganingizni niyat qiling. Masalan: 'Bugungi bomdod namazining 2 rakat farzini o'qimoqchi bo'ldim Alloh uchun.' Qiblaga yuzlaning."
+      },
+      {
+        "order": 2,
+        "title": "Takbiroti tahrima",
+        "description": "Qo'llarni quloq barobari ko'tarib 'Allohu Akbar' deng. Namoz boshlandi — mundan keyin gapirishning, yeyishning iloji yo'q."
+      },
+      {
+        "order": 3,
+        "title": "Qiyom — Sano",
+        "description": "Qo'llarni kindik ostiga bog'lang (erkaklar) yoki ko'krak ustiga (ayollar). 'Subhanakallohumma va bihamdika va tabarokasmuka va ta'ala jadduka va la ilaha ghayruk' deng."
+      },
+      {
+        "order": 4,
+        "title": "Ta'avvuz va Basmala",
+        "description": "'A'uzu billahi minash-shaytanir-rojim. Bismillahir-rohmanir-rohiym' deng."
+      },
+      {
+        "order": 5,
+        "title": "Fotiha surasi",
+        "description": "Al-Fotiha surasini to'liq o'qing. Oxirida 'Omin' deng (sekin)."
+      },
+      {
+        "order": 6,
+        "title": "Qo'shimcha sura",
+        "description": "Qur'ondan biron sura yoki kamida 3 qisqa oyat o'qing."
+      },
+      {
+        "order": 7,
+        "title": "Ruku'",
+        "description": "'Allohu Akbar' deb ruku'ga boring. Belni tekis, boshni bel bilan bir tekislikda tuting. Qo'llar bilan tizzalarni ushlang. Kamida 3 marta 'Subhana rabbiyal azim' deng."
+      },
+      {
+        "order": 8,
+        "title": "Qavma (tik turish)",
+        "description": "'Sami'allohu liman hamidah' deb tik turing. 'Robbana lakal hamd' deng."
+      },
+      {
+        "order": 9,
+        "title": "Birinchi sajda",
+        "description": "'Allohu Akbar' deb sajdaga tushing. Peshona, burun, ikkala kaft, tizzalar va oyoq barmoqlari yerga tegsin. Kamida 3 marta 'Subhana rabbiyal a'la' deng."
+      },
+      {
+        "order": 10,
+        "title": "Jalsa (ikki sajda orasi)",
+        "description": "'Allohu Akbar' deb o'tiring. Bir lahza tinch o'tirib, 'Rabbig'firli' deng."
+      },
+      {
+        "order": 11,
+        "title": "Ikkinchi sajda",
+        "description": "'Allohu Akbar' deb yana sajdaga tushing. Kamida 3 marta 'Subhana rabbiyal a'la' deng. Birinchi rakat tamom."
+      },
+      {
+        "order": 12,
+        "title": "Ikkinchi rakatga turish",
+        "description": "'Allohu Akbar' deb to'g'ridan-to'g'ri turib keting. Qo'llarni bog'lab, Bismillah, Fotiha va sura o'qing. Ruku' va sajdalarni xuddi birinchi rakatdek takrorlang."
+      },
+      {
+        "order": 13,
+        "title": "Oxirgi qa'da (o'tirish)",
+        "description": "Ikkinchi rakatning ikkinchi sajdasidan so'ng o'tiring. Attahiyyot, Salavot (Allohumma salli...) va duo o'qing. Masalan: 'Robbana atina fid-dunya hasanatan va fil-akhirati hasanatan va qina azaban-nar.'"
+      },
+      {
+        "order": 14,
+        "title": "Salom",
+        "description": "Avval o'ng tomonga 'Assalamu alaykum va rohmatulloh', so'ng chap tomonga ham aytib salom bering. Namoz tamom."
+      }
+    ]
+  },
+  {
+    "id": "namaz_4rakat",
+    "title": "4 rakatli namoz (Peshin, Asr, Xufton farzi)",
+    "icon": "figure.stand",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Birinchi va ikkinchi rakat",
+        "description": "2 rakatli namozdek o'qiladi: Niyat → Takbir → Sano → Fotiha + sura → Ruku' → Sajdalar. Ikkinchi rakatda ham Fotiha + sura o'qiladi."
+      },
+      {
+        "order": 2,
+        "title": "Birinchi qa'da (qa'da ula)",
+        "description": "Ikkinchi rakatdan so'ng o'tiring. FAQAT Attahiyyot o'qing. Salavot o'qilMAYDI. Bu qa'da vojibdir."
+      },
+      {
+        "order": 3,
+        "title": "Uchinchi rakatga turish",
+        "description": "'Allohu Akbar' deb turing. FAQAT Fotiha o'qing, sura qo'shilMAYDI (farzda). Ruku' va sajdalarni bajaring."
+      },
+      {
+        "order": 4,
+        "title": "To'rtinchi rakat",
+        "description": "Uchinchi rakatdek: faqat Fotiha (sura qo'shilmaydi). Ruku' va sajdalarni bajaring."
+      },
+      {
+        "order": 5,
+        "title": "Oxirgi qa'da (qa'da akhira)",
+        "description": "To'rtinchi rakatning ikkinchi sajdasidan so'ng o'tiring. Attahiyyot + Salavot + Duo o'qing. Bu farzdir."
+      },
+      {
+        "order": 6,
+        "title": "Salom",
+        "description": "Ikkala tomonga salom berib namozni yakunlang."
+      }
+    ]
+  },
+  {
+    "id": "namaz_3rakat",
+    "title": "3 rakatli namoz (Shom farzi)",
+    "icon": "figure.stand",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Birinchi va ikkinchi rakat",
+        "description": "Odatdagi kabi: Niyat → Takbir → Sano → Fotiha + sura → Ruku' → Sajdalar."
+      },
+      {
+        "order": 2,
+        "title": "Birinchi qa'da",
+        "description": "Ikkinchi rakatdan so'ng o'tiring. FAQAT Attahiyyot o'qing. Salavot o'qilMAYDI."
+      },
+      {
+        "order": 3,
+        "title": "Uchinchi rakat",
+        "description": "'Allohu Akbar' deb turing. Faqat Fotiha o'qing, sura qo'shilMAYDI (farzda). Ruku' va sajdalarni bajaring."
+      },
+      {
+        "order": 4,
+        "title": "Oxirgi qa'da",
+        "description": "O'tiring: Attahiyyot + Salavot + Duo o'qing."
+      },
+      {
+        "order": 5,
+        "title": "Salom",
+        "description": "Ikkala tomonga salom bering. Namoz tamom."
+      }
+    ]
+  },
+  {
+    "id": "witr",
+    "title": "Vitr namozi (3 rakat, vojib)",
+    "icon": "moon.stars.fill",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Niyat",
+        "description": "3 rakat vitr namaziga niyat qiling. Vitr namozi Hanafiy mazhabida vojibdir."
+      },
+      {
+        "order": 2,
+        "title": "Birinchi ikki rakat",
+        "description": "Oddiy 2 rakatli namozdek o'qing: Fotiha + sura har rakatda. Ikkinchi rakatdan so'ng o'tirib faqat Attahiyyot o'qing (Salavot o'qilMAYDI). Salom bermang."
+      },
+      {
+        "order": 3,
+        "title": "Uchinchi rakat — Fotiha va sura",
+        "description": "'Allohu Akbar' deb turing. Fotiha va ustiga biron sura o'qing."
+      },
+      {
+        "order": 4,
+        "title": "Qunut duosi",
+        "description": "Suradan keyin 'Allohu Akbar' deb qo'llarni quloq barobari ko'taring, so'ng bog'lab Qunut duosini o'qing. Qunut bilmasangiz 3 marta 'Allohummagfirli' deyish ham mumkin."
+      },
+      {
+        "order": 5,
+        "title": "Ruku' va sajdalar",
+        "description": "Odatdagi kabi ruku' qiling, so'ng qavma (tik turish), so'ng ikkala sajdani bajaring."
+      },
+      {
+        "order": 6,
+        "title": "Oxirgi qa'da va salom",
+        "description": "O'tirib Attahiyyot, Salavot va duo o'qing. Ikkala tomonga salom bering. Vitr namozi tamom."
+      }
+    ]
+  }
+]
